@@ -3,4 +3,4 @@ repository = "https://github.com/DarwinBuelo/openidea-platformio"
 [[versions]]
 version = "0.1.0"
 package = "https://github.com/DarwinBuelo/openidea-platformio/releases/download/0.1.0/darwin.platformio-0.1.0.oiplugin"
-sha256 = "bcea87a7ac44045d30ec2a48206c5184162bac155cd0a90a197205b5995ee71"
+sha256 = "bcea87a7ac44045d30ec2a48206c5184162bac155cd0a90a197205b5995ee71b"
